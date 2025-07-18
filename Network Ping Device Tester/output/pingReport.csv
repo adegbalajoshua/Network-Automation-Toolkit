@@ -1,5 +1,0 @@
-IP,Device Name,Status,Latency,Timestamp
-192.168.100.14,Helpdesk PC,UP,2.98ms,2025-07-18 14:12:00 W. Central Africa Standard Time
-192.168.20.3,mainstreet-DC-1,UP,2.64ms,2025-07-18 14:12:00 W. Central Africa Standard Time
-192.168.20.22,mainstreet-DC-2,UP,20.27ms,2025-07-18 14:12:00 W. Central Africa Standard Time
-192.168.20.80,cornerblock-DC-2,UP,3.18ms,2025-07-18 14:12:00 W. Central Africa Standard Time
